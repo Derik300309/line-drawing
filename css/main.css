@@ -12,6 +12,10 @@ body
     align-items: center;
     justify-content: center;
 }
+svg
+{
+    width: 100%;
+}
 svg path
 {
     fill: none;
